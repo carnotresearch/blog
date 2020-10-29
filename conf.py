@@ -66,7 +66,7 @@ html_static_path = ['_static']
 templates_path = [ablog.get_html_templates_path()]
 
 blog_title = 'Carnot Research Blog'
-blog_baseurl = 'http://blog.carnotresearch.com'
+blog_baseurl = 'https://carnotresearch.github.io/blog'
 
 blog_languages = {
     'en': ('English', None),
