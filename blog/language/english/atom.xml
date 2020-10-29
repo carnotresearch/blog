@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>http://lernfunk.de/media/654321</id>
+  <title>Carnot Research Blog - Posts in English</title>
+  <updated>2020-10-29T11:47:36.835933+00:00</updated>
+  <link href="http://blog.carnotresearch.com"/>
+  <link href="http://blog.carnotresearch.com/blog/language/english/atom.xml"/>
+  <generator uri="https://ablog.readthedocs.org" version="0.10.11">ABlog</generator>
+  <entry>
+    <id>http://blog.carnotresearch.com/ml/interpretable_ml.html</id>
+    <title>An Invitation to Interpretable Machine Learning</title>
+    <updated>2020-10-29T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="section" id="an-invitation-to-interpretable-machine-learning"&gt;
+
+&lt;/div&gt;
+</content>
+    <link href="http://blog.carnotresearch.com/ml/interpretable_ml.html" rel="alternate"/>
+    <published>2020-10-29T00:00:00+00:00</published>
+  </entry>
+</feed>
